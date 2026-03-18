@@ -1,3 +1,19 @@
+## 👩‍💻 Katyayni Singh
+
+---
+
+### 🎓 BCA Student (2nd Year)
+📍 India
+💡 Aspiring Full Stack Developer | Java & DSA Enthusiast
+
+🚀 About Me
+
+I am a Bachelor of Computer Applications (BCA) student currently in my second year, with a strong interest in software development.
+I am focused on building a solid foundation in Data Structures and Algorithms, Java, and Full Stack Development.
+
+I am actively improving my problem-solving skills and working on real-world projects to become industry-ready.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katyayni-singh-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katyaynis51@gmail.com) 
