@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a Bachelor of Computer Applications (BCA) student currently in my second year, with a strong interest in software development.
+I am a Bachelor of Computer Applications (BCA) student currently in my final year, with a strong interest in software development.
 I am focused on building a solid foundation in Data Structures and Algorithms, Java, and Full Stack Development.
 
 I am actively improving my problem-solving skills and working on real-world projects to become industry-ready.
