@@ -2,7 +2,7 @@
 
 ---
 
-### 🎓 BCA Student (2nd Year)
+### 🎓 BCA Student (3rd Year)
 📍 India
 💡 Aspiring Full Stack Developer | Java & DSA Enthusiast
 
